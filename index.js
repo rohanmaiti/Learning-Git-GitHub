@@ -60,3 +60,10 @@ function showName(){
 function showAge(){
     console.log(22);
 }
+
+// adding some another text
+// so that we can commit and add some commit to the VCS
+
+function permanent(){
+    console.log("this function is permanent");
+}
