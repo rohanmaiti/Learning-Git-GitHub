@@ -9,3 +9,5 @@ function add(a , b){
 
 // if you dont want to track a file by vcs 
 // then type git rm <filepath>
+
+// adding text1 
