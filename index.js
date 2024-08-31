@@ -1,4 +1,4 @@
-const age = 22;
+const age = 24;
 // stored all the information inside ./git folder that is hidden;
 
 // by typing git add index.js i am telling the vcs to track the index.js file from now .
@@ -6,3 +6,13 @@ const age = 22;
 // if am removing something as well it also being tracked
 
 // by typing git diff its telling me what are the changes in the file 
+
+// lets add the initial commit by typing git commit -m "initial commit"
+// to check history of commit 
+// git log command 
+
+
+// adding some other code 
+function print(){
+    console.log("print function called");
+}
