@@ -50,3 +50,13 @@ function print(){
 
 // now you want that what ever you have done in the function removed commit it sould be undo
 // git revert idOfcommit
+
+
+// adding a function 
+function showName(){
+    console.log("Rohan");
+}
+
+function showAge(){
+    console.log(22);
+}
