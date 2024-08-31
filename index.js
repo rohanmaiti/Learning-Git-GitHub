@@ -67,3 +67,8 @@ function showAge(){
 function permanent(){
     console.log("this function is permanent");
 }
+
+// adding another text to incrase VCS commit and logs 
+function anotherPermanentFunction(){
+    console.log("another parment function");
+}
