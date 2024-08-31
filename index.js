@@ -27,4 +27,26 @@ function print(){
 // in midified .. now if we commit something, there is nothing in the staging area . 
 // so it is empty staging area 
 // to make our modification in the staging area 
-// we arite git add . || git add filename
+// we write git add . || git add filename
+
+
+// now we will learn how we will revert back 
+// now doing a commit so that i can revert back to the previous commit again
+// git reset --hard address 
+
+
+// another way fo revert 
+// now making a function and commit it and after this commit 
+// i will delete the function and would commit it 
+
+// so my git log would be like 
+/**   
+ * head=> function removed
+ *        |
+ *    function added 
+ *        |
+ *    old commits 
+ */
+
+// now you want that what ever you have done in the function removed commit it sould be undo
+// git revert idOfcommit
