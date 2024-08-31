@@ -19,3 +19,12 @@ function print(){
 
 // git log --oneline 
 // git blame index.js // to show line by line that which change is done by whom?
+
+// now learn about staging area 
+// now in this state all my commits are done and i am adding these text
+// now entering git status
+// all that we have changed in our local system is 
+// in midified .. now if we commit something, there is nothing in the staging area . 
+// so it is empty staging area 
+// to make our modification in the staging area 
+// we arite git add . || git add filename
