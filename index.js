@@ -16,3 +16,6 @@ const age = 24;
 function print(){
     console.log("print function called");
 }
+
+// git log --oneline 
+// git blame index.js // to show line by line that which change is done by whom?
