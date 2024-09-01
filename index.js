@@ -57,9 +57,8 @@ function showName(){
     console.log("Rohan");
 }
 
-function showAge(){
-    console.log(22);
-}
+
+// deleted showAge function and added this comment 
 
 // adding some another text
 // so that we can commit and add some commit to the VCS
