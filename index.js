@@ -74,3 +74,9 @@ function anotherPermanentFunction(){
 
 // now in this point i want to delete a function and add some more commit then ,
 // i will revert back to that commit so that that function would get back 
+
+
+// adding some other commit 
+function anotherCommit(){
+    console.log("another commit added");
+}
