@@ -80,3 +80,8 @@ function anotherPermanentFunction(){
 function anotherCommit(){
     console.log("another commit added");
 }
+
+// adding another commit function 
+function secondCommitFunction(){
+    console.log("Scceond commit function added");
+}
