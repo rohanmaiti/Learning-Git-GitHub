@@ -85,3 +85,6 @@ function anotherCommit(){
 function secondCommitFunction(){
     console.log("Scceond commit function added");
 }
+
+// now inthis point i want to revert back to 
+// deleted showAge function and added comment commit
