@@ -72,3 +72,6 @@ function permanent(){
 function anotherPermanentFunction(){
     console.log("another parment function");
 }
+
+// now in this point i want to delete a function and add some more commit then ,
+// i will revert back to that commit so that that function would get back 
