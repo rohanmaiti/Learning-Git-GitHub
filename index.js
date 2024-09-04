@@ -103,3 +103,7 @@ function anotherFUnction(){
 function anotherFUnction_B(){
     console.log("another function added in feat-b branch");
 }
+
+function feat_b_function(){
+    console.log("feat_b_function added");
+}
