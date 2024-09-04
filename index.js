@@ -1,4 +1,4 @@
-const age = 24;
+const age = "new age 34";
 // stored all the information inside ./git folder that is hidden;
 
 // by typing git add index.js i am telling the vcs to track the index.js file from now .
