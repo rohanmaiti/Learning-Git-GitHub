@@ -10,4 +10,4 @@ let age = 34;
 // let name = "Rohan Maiti"
 let collegeName = "Chitkara University Himachal pradesh"
 // let name = "Rahul Maiti"
-// let collegeName = "Chitkara University"
+// let collegeName = "Chitkara University" 
