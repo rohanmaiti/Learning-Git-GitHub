@@ -93,7 +93,7 @@ function secondCommitFunction(){
 
 // now learning git branch
 function newFeature(){      // new  function added to rohan-feat branch
-console.log("new function in rohan-feat added");
+console.log("new function in rohan-feat added and modified");
 }
 
 function anotherFUnction(){
